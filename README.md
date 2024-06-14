@@ -1,0 +1,2 @@
+# Securing-Data-With-Encrypted-K-NN-Defending-Against-Statistical-Analysis
+I implemented encrypted k-NN to enhance data security against statistical analysis attacks. By encrypting data and query vectors using homomorphic encryption, I ensured that similarity computations and k-nearest neighbor searches could be performed securely without revealing sensitive information, thus safeguarding against potential breaches.
