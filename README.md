@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/encrypted-knn.git
+git clone https://github.com/pradepv/Securing-Data-With-Encrypted-K-NN-Defending-Against-Statistical-Analysis
 cd encrypted-knn
 Install the required dependencies:
 
